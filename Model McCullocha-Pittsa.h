@@ -5,6 +5,7 @@
 #include "string"
 using namespace std;
 //functions
-void SNE_01();
+void introSNE01();
+int SNE01();
 
 #endif //SIECI_NEURONOWE_MODEL_MCCULLOCHA_PITTSA_H

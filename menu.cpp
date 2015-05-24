@@ -21,22 +21,22 @@ void menu(){
     cin >> wybor;
     switch (wybor){
         case 1:
-            SNE_01();
+            SNE01();
             break;
         case 2:
-            SNE_02();
+            SNE02();
             break;
         case 3:
-            SNE_03();
+            SNE03();
             break;
         case 4:
-            SNE_04();
+            SNE04();
             break;
         case 5:
-            SNE_05();
+            SNE05();
             break;
         case 6:
-            SNE_06();
+            SNE06();
             break;
         case 7:
             cout << "Wybrales zadanie nr 7." << endl;

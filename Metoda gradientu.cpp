@@ -3,8 +3,13 @@
 //
 
 #include "Metoda gradientu.h"
-void SNE_04(){
+void introSNE04(){
     cout << "Wybrales zadanie nr 4." << endl;
     cout << "----------------------" << endl;
     cout << "Metoda gradientu" << endl;
 }
+
+int SNE04(){
+    introSNE04();
+    return 0;
+};

@@ -4,5 +4,6 @@
 #include "iostream"
 using namespace std;
 //functions
-void SNE_02();
+void introSNE02();
+int SNE02();
 #endif //SIECI_NEURONOWE_PERCEPTRON_H

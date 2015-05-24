@@ -8,5 +8,6 @@
 #include "iostream"
 using namespace std;
 //funcions
-void SNE_04();
+void introSNE04();
+int SNE04();
 #endif //SIECI_NEURONOWE_METODA_GRADIENTU_H
