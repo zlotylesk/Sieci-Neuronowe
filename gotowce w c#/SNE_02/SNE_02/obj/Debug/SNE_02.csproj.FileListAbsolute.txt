@@ -1,0 +1,15 @@
+c:\users\adam\documents\visual studio 2013\Projects\SNE_02\SNE_02\bin\Debug\SNE_02.exe.config
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\SNE_02\SNE_02\bin\Debug\SNE_02.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\SNE_02\SNE_02\bin\Debug\SNE_02.pdb
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\SNE_02\SNE_02\obj\Debug\SNE_02.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\SNE_02\SNE_02\obj\Debug\SNE_02.exe
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\SNE_02\SNE_02\obj\Debug\SNE_02.pdb
+Z:\Users\Ja\Downloads\SNE\SNE_02\SNE_02\bin\Debug\SNE_02.exe.config
+Z:\Users\Ja\Downloads\SNE\SNE_02\SNE_02\obj\Debug\SNE_02.exe
+Z:\Users\Ja\Downloads\SNE\SNE_02\SNE_02\obj\Debug\SNE_02.pdb
+Z:\Users\Ja\Downloads\SNE\SNE_02\SNE_02\bin\Debug\SNE_02.exe
+Z:\Users\Ja\Downloads\SNE\SNE_02\SNE_02\bin\Debug\SNE_02.pdb
+Z:\Users\Ja\Downloads\SNE\SNE_02\SNE_02\obj\Debug\SNE_02.csprojResolveAssemblyReference.cache
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_02\SNE_02\bin\Debug\SNE_02.exe.config
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_02\SNE_02\obj\Debug\SNE_02.exe
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_02\SNE_02\obj\Debug\SNE_02.pdb

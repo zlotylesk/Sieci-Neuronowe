@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\SNE_05\SNE_05\bin\Debug\SNE_05.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\SNE_05\SNE_05\bin\Debug\SNE_05.exe
+c:\users\adam\documents\visual studio 2013\Projects\SNE_05\SNE_05\bin\Debug\SNE_05.pdb
+c:\users\adam\documents\visual studio 2013\Projects\SNE_05\SNE_05\obj\Debug\SNE_05.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\SNE_05\SNE_05\obj\Debug\SNE_05.exe
+c:\users\adam\documents\visual studio 2013\Projects\SNE_05\SNE_05\obj\Debug\SNE_05.pdb

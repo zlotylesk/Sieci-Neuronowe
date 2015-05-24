@@ -1,0 +1,12 @@
+c:\users\adam\documents\visual studio 2013\Projects\SNE_01\SNE_01\bin\Debug\SNE_01.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\SNE_01\SNE_01\bin\Debug\SNE_01.exe
+c:\users\adam\documents\visual studio 2013\Projects\SNE_01\SNE_01\bin\Debug\SNE_01.pdb
+c:\users\adam\documents\visual studio 2013\Projects\SNE_01\SNE_01\obj\Debug\SNE_01.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\SNE_01\SNE_01\obj\Debug\SNE_01.exe
+c:\users\adam\documents\visual studio 2013\Projects\SNE_01\SNE_01\obj\Debug\SNE_01.pdb
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_01\SNE_01\bin\Debug\SNE_01.exe.config
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_01\SNE_01\obj\Debug\SNE_01.exe
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_01\SNE_01\obj\Debug\SNE_01.pdb
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_01\SNE_01\bin\Debug\SNE_01.exe
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_01\SNE_01\bin\Debug\SNE_01.pdb
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_01\SNE_01\obj\Debug\SNE_01.csprojResolveAssemblyReference.cache
