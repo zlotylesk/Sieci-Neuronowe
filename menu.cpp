@@ -5,6 +5,7 @@
 #include "Metoda gradientu.h"
 #include "Propagacja wsteczna.h"
 #include "Sieci Hopfielda.h"
+#include "faktoryzacja.h"
 
 void menu(){
     short int wybor;
@@ -17,6 +18,7 @@ void menu(){
     cout << "(6) Zadanie 6. Sieci Hopfielda" << endl;
     cout << "(7) Zadanie 7. Maszyna Baltzmana" << endl;
     cout << "(8) Zadanie 8. TBA" << endl;
+    cout << "(9) Zadanie 9. Faktoryzacja" << endl;
     cout << "Dokonaj wyboru:" << endl;
     cin >> wybor;
     switch (wybor){
@@ -47,6 +49,9 @@ void menu(){
             cout << "Wybrales zadanie nr 8." << endl;
             cout << "----------------------" << endl;
             cout << "Temat zadania" << endl;
+            break;
+        case 9:
+            SNE09();
             break;
         default:
             cout << "Dokonano niepoprawnego wyboru" << endl;
