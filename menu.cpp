@@ -15,7 +15,7 @@ void menu(){
     cout << "(4) Zadanie 4. Metoda gradientu" << endl;
     cout << "(5) Zadanie 5. Propagacja wsteczna" << endl;
     cout << "(6) Zadanie 6. Sieci Hopfielda" << endl;
-    cout << "(7) Zadanie 7. TBA" << endl;
+    cout << "(7) Zadanie 7. Maszyna Baltzmana" << endl;
     cout << "(8) Zadanie 8. TBA" << endl;
     cout << "Dokonaj wyboru:" << endl;
     cin >> wybor;
