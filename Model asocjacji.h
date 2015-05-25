@@ -2,6 +2,7 @@
 #define SIECI_NEURONOWE_MODEL_ASOCJACJI_H
 //libraries
 #include "iostream"
+#include "vector"
 using namespace std;
 //functions
 void introSNE03();
